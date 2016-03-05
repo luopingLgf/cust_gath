@@ -1,5 +1,7 @@
 package cn.llpp.custga.controller;
 
+import cn.llpp.custga.model.CustomUser;
+
 /**
  * test handler
  * @author Ruby
@@ -7,7 +9,8 @@ package cn.llpp.custga.controller;
  */
 public class TestController {
 
-	public String getUsers(){
+	public CustomUser getUsers(){
+		
 		return null;
 	}
 }
