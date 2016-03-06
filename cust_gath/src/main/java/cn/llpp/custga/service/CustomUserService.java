@@ -1,5 +1,5 @@
 package cn.llpp.custga.service;
 
-public class TestService {
+public interface CustomUserService {
 	
 }
